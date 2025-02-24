@@ -21,7 +21,7 @@
     </style>
 </head>
 <body class="container mt-5">
-    <h1 class="text-center mb-4">Product List</h1>
+    <h1 class="text-center mb-4">Anime List</h1>
     <div class="row">
         @foreach ($products as $product)
             <div class="col-md-4">
